@@ -1,6 +1,4 @@
-### Hi there 👋
-
-#### My GitHub Contributions    
+### My Contributions 🐳🐬🐋🦈🐟🐡🐠🐊🦞🦐🦀️🦦 
 ![](https://raw.githubusercontent.com/dapangyu-fish/snk/output/github-contribution-grid-snake-dark.svg)           
 
 
