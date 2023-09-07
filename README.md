@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### My GitHub Contributions    
+![](https://raw.githubusercontent.com/dapangyu-fish/dapangyu-fish/main/assets/github-contribution-grid-snake.svg)           
+
+
 <!--
 **dapangyu-fish/dapangyu-fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
