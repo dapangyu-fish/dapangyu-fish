@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### My GitHub Contributions    
-![](https://raw.githubusercontent.com/dapangyu-fish/snk/output/github-contribution-grid-snake.svg)           
+![](https://raw.githubusercontent.com/dapangyu-fish/snk/output/github-contribution-grid-snake-dark.svg)           
 
 
 <!--
